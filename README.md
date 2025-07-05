@@ -36,7 +36,7 @@ YouTubeBuddy solves this by letting you:
 
 ## 🏗️ Architecture
 
-![Architecture](images/architecture.png)
+![Architecture](Architecture.png)
 
 
 ---
